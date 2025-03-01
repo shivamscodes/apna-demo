@@ -1,2 +1,1 @@
-# apna-demo
-author - shivam sharma mca 
+Rotating Image Gallery
